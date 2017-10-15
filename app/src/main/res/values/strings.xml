@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="app_name">Погода</string>
+    <string name="choose_point_count">Выберите количество точек</string>
+    <string name="lets_go">Поехали</string>
+    <string name="wrong_parameters">Неверные параметры запроса</string>
+    <string name="no_internet">Нет интернет соединения</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="exit">Выйти</string>
+    <string name="json_error_message">Json ошибка!</string>
+    <string name="io_error_message">Ошибка ввода/вывода!</string>
+    <string name="refreshed">Погода обновлена</string>
+
+    <string name="dark_sky_api">b8f05cf31e929215651fd37abb830a07</string>
+
+</resources>
